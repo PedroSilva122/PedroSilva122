@@ -8,5 +8,11 @@
 </div>
 
 ## Hablidades
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" widht= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" widht= "40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" widht= "40" height= "40" /> <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.northware.mx%2Fen%2Fpower-bi-2%2F&psig=AOvVaw2LrrJQGaprY3W8yao_bsoJ&ust=1749746607967000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjNvJ_o6Y0DFQAAAAAdAAAAABAM" widht= "40" height = "40" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" widht= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" widht= "40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" widht= "40" height= "40" />
+
+## Contatos:
+<div>
+<a href = "mailto:pedrotyu050@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-cosinha-497b4a241/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
