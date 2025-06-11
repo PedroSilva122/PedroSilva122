@@ -8,5 +8,4 @@
 </div>
 
 ## Hablidades
-<i class="devicon-postgresql-plain-wordmark colored"></i>
-          
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
